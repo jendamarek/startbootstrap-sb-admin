@@ -1,3 +1,6 @@
+import * as jQuery from 'jQuery';
+import 'jquery.easing';
+
 (function($) {
   "use strict"; // Start of use strict
 

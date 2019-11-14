@@ -1,5 +1,6 @@
 {
     "title": "SB Admin",
+    "main": "js/sb-admin",
     "name": "startbootstrap-sb-admin",
     "version": "5.1.1",
     "scripts": {
