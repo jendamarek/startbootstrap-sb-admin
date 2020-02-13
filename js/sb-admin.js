@@ -1,4 +1,4 @@
-import * as jQuery from 'jQuery';
+import * as jQuery from 'jquery';
 import 'jquery.easing';
 
 (function($) {
